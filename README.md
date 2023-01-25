@@ -34,7 +34,7 @@ Step 6:
 Number of words in the txt file is displayed as the output.
 
 ## PROGRAM:
-
+```
 Developed by:M.PAVITHRA
 Register number:22008686
 
@@ -44,6 +44,7 @@ with open('text.txt'.'r') as f1:
         word = i.split()
         num_words += len(word)
 print("number of words in the file = {}".format(num_words))        
+```
 
 ### OUTPUT:
 
