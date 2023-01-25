@@ -47,7 +47,8 @@ print("number of words in the file = {}".format(num_words))
 
 ### OUTPUT:
 
-![](./pythonpy.png)
+![](./word1.png)
+![](./word.png)
 
 ## RESULT:
 
